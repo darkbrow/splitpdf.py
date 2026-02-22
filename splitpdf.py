@@ -2,7 +2,7 @@ import argparse
 import os
 import sys
 from datetime import datetime
-from PyPDF2 import PdfReader, PdfWriter
+from pypdf import PdfReader, PdfWriter
 
 def get_base_filename(path):
     return os.path.splitext(os.path.basename(path))[0]

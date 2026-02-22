@@ -47,9 +47,9 @@ part_input_1-3_20251211_0351_v1.pdf
 
 - Python 3.x
 
-- PyPDF2
+- pypdf
 
 - 설치:
 ```
-pip install PyPDF2
+pip install pypdf
 ```
