@@ -1,6 +1,6 @@
 # PDF Splitter Script
 
-이 스크립트는 PyPDF2 라이브러리를 활용하여 PDF 파일을 원하는 페이지 범위 또는 일정한 단위(chunk) 로 분할하여 새로운 PDF 파일로 저장합니다.파일 이름에 접두사(prefix), 접미사(suffix), 그리고 타임스탬프(timestamp)를 추가할 수 있습니다.
+이 스크립트는 [pypdf](https://pypi.org/project/pypdf/) 라이브러리를 활용하여 PDF 파일을 원하는 페이지 범위 또는 일정한 단위(chunk) 로 분할하여 새로운 PDF 파일로 저장합니다.파일 이름에 접두사(prefix), 접미사(suffix), 그리고 타임스탬프(timestamp)를 추가할 수 있습니다.
 
 ## 주요 기능
 
